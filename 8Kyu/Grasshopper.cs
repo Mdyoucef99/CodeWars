@@ -1,6 +1,8 @@
 ﻿public class Player
 {
     private int health = 100;
+    private bool Bbool;
+
     public int Health
     {
         get
